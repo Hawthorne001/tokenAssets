@@ -1,7 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Logo">
-  <circle cx="50" cy="50" r="50" fill="#0000FF"/>
-  <polygon fill="#FFFFFF" points="18.125,26.75 49.875,20.3083 49.875,37.5958 18.125,44.0417"/>
-  <polygon fill="#FFFFFF" points="18.125,47.8208 81.8333,34.9667 81.8333,52.3792 18.125,65.2375"/>
-  <polygon fill="#FFFFFF" points="49.9583,62.4875 81.75,56.0375 81.75,73.3167 49.9583,79.7667"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="Logo" role="img" viewBox="0 0 100 100"><circle cx="50" cy="50" r="50" fill="#00F"/><polygon fill="#FFF" points="18.125 26.75 49.875 20.308 49.875 37.596 18.125 44.042"/><polygon fill="#FFF" points="18.125 47.821 81.833 34.967 81.833 52.379 18.125 65.237"/><polygon fill="#FFF" points="49.958 62.487 81.75 56.038 81.75 73.317 49.958 79.767"/></svg>
